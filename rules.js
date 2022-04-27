@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => await conn.send2But(m.chat, `
 ╭─────[ *RULES* ]─────✧
 ┴
 │¹ Dilarang Hina Bot / Owner
-│² Dilarabg Spam Command
+│² Dilarang Spam Command
 │³ Dilarang Kirim Virtex
 │⁴ Dilarang Spam Menu Ga Jelas
 │⁵ Dilarang Telp / Vc
@@ -20,7 +20,7 @@ let handler = async (m, { conn }) => await conn.send2But(m.chat, `
 ┴
 │ 1 & 11 = Block + banned permanent
 │ 2,4,6 & 8 = Banned sementara
-│ 3 = War
+│ 3 = War kita deck
 │ 5 = Block sementara
 │ 9 & 10 = Block permanent
 ┬
